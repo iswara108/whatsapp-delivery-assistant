@@ -1,0 +1,15 @@
+article.input {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+article.output {
+  display: grid;
+  justify-content: center;
+}
+
+button {
+  margin: 2rem auto 0;
+  display: block;
+  padding: 0.5rem;
+}
